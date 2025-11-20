@@ -288,4 +288,8 @@ footer a {
   section h2 {
     font-size: 2rem;
   }
+  .sobre-mim-box img{
+    width: 100%;
+  }
+  
 }
