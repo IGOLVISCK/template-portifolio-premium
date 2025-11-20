@@ -124,8 +124,8 @@ section h2 {
 }
 
 .sobre-mim-box img {
-  width: 100%;
-  max-width: 400px; /* Limita o tamanho máximo */
+  width: 40rem;
+  max-width: 35rem; /* Limita o tamanho máximo */
   height: auto;
   border-radius: 20px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.5);
